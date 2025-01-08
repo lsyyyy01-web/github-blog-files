@@ -747,3 +747,14 @@
 82.117.226.107
 82.117.226.240
 82.117.226.126
+# ----------------------------------------------
+# G-Core CDN IPs
+# Get the newest: 
+# https://api.gcore.com/cdn/public-ip-list
+# ----------------------------------------------
+#      By  lsyyyy11
+#  Github: lsyyyy01/github-blog-files
+# License: CC-BY-NC-SA 4.0
+# Update: 2025/01/08 17:23:20
+#   Blog: https://lsyyyy11.github.io/post/G-Core%20-mian-fei-%20CDN%20IP-you-xuan.html
+# ----------------------------------------------
